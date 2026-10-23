@@ -1,0 +1,29 @@
+Backing samples in this folder
+
+drums/*.wav  Extracted from FluidR3_GM.sf2 (Brush kit, bank 128 program 40):
+             ride, ride2, hi-hat foot, kick, brush tap, brush swirl. Mono, trimmed, normalised.
+bass/*.mp3   Acoustic Bass (GM 33) notes D1-C4 from the MIDI.js soundfont rendering of
+             FluidR3_GM (https://github.com/gleitz/midi-js-soundfonts), decoded from base64.
+
+FluidR3_GM.sf2
+Copyright (c) 2000-2002, 2008 Frank Wen <getfrank@gmail.com>
+
+MIDI.js soundfonts
+Copyright (C) 2012 Benjamin Gleitzman (gleitz@mit.edu)
+
+Both are distributed under the MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
